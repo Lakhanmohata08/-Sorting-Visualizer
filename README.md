@@ -1,2 +1,3 @@
-# -Sorting-Visualizer
-A dynamic web-based tool that visually demonstrates how various sorting algorithms work in real time. It helps users understand sorting logic through animated, interactive visualizations.
+# Sorting-Visulaizer
+
+• Developed a Sorting Visualizer with a UI for selecting sorting algorithms. • Implemented Bubble, Selection, Insertion, Merge, and Quick sort algorithms. • Created an interactive interface for generating arrays, adjusting size, and controlling sorting speed.
